@@ -1,0 +1,9 @@
+/* Custom styles for the plugin */
+.wrap {
+    max-width: 100%;
+    margin: 20px auto;
+    /*background-color: darkcyan;*/
+}
+.upload_image_button {
+    margin-top: 5px;
+}
